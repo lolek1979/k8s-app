@@ -1,0 +1,6 @@
+apiVersion: v2
+name: sw-movie-app
+description: A Helm chart for deploying the sw-movie-app with MongoDB
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
